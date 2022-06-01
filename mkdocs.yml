@@ -1,3 +1,31 @@
 site_name: Nouman's Notebook
 theme:
     name: material
+    palette: 
+      scheme: slate
+      primary: indigo
+      accent: deep orange
+    icon:
+      logo: material/notebook
+    features:
+      - navigation.instant
+      - navigation.tracking
+      - navigation.tabs
+      - navigation.top
+
+repo_url: https://github.com/maliklabs/Noumans-Notebook
+repo_name: maliklabs/Noumans-Notebook
+edit_uri: ""
+
+extra:
+  generator: true
+  social:
+    - icon: material/web
+      link: https://www.maliklabs.com/
+    - icon: fontawesome/brands/github
+      link: https://github.com/maliklabs
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nouman-a-malik/
+    - icon: material/email
+      link: mailto:maliklabs@outlook.com
+    
